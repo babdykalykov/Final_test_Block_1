@@ -1,0 +1,14 @@
+/Users/babdykalykov/Обучение/DevOps/Final_test/bin/Debug/net7.0/Final_test
+/Users/babdykalykov/Обучение/DevOps/Final_test/bin/Debug/net7.0/Final_test.deps.json
+/Users/babdykalykov/Обучение/DevOps/Final_test/bin/Debug/net7.0/Final_test.runtimeconfig.json
+/Users/babdykalykov/Обучение/DevOps/Final_test/bin/Debug/net7.0/Final_test.dll
+/Users/babdykalykov/Обучение/DevOps/Final_test/bin/Debug/net7.0/Final_test.pdb
+/Users/babdykalykov/Обучение/DevOps/Final_test/obj/Debug/net7.0/Final_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babdykalykov/Обучение/DevOps/Final_test/obj/Debug/net7.0/Final_test.AssemblyInfoInputs.cache
+/Users/babdykalykov/Обучение/DevOps/Final_test/obj/Debug/net7.0/Final_test.AssemblyInfo.cs
+/Users/babdykalykov/Обучение/DevOps/Final_test/obj/Debug/net7.0/Final_test.csproj.CoreCompileInputs.cache
+/Users/babdykalykov/Обучение/DevOps/Final_test/obj/Debug/net7.0/Final_test.dll
+/Users/babdykalykov/Обучение/DevOps/Final_test/obj/Debug/net7.0/refint/Final_test.dll
+/Users/babdykalykov/Обучение/DevOps/Final_test/obj/Debug/net7.0/Final_test.pdb
+/Users/babdykalykov/Обучение/DevOps/Final_test/obj/Debug/net7.0/Final_test.genruntimeconfig.cache
+/Users/babdykalykov/Обучение/DevOps/Final_test/obj/Debug/net7.0/ref/Final_test.dll
