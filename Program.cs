@@ -42,6 +42,7 @@ else
 }
 
 int Count = 0;
+
 for (int i = 0; i <= array.Length - 1; i++)
 {
     if (array[i].Length <= 3) Count++;
